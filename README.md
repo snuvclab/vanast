@@ -8,9 +8,9 @@
 
 ### CVPR 2026 Highlight
 
-[Hyunsoo Cha](https://hyunsoocha.github.io/)<sup>1</sup> &nbsp;&nbsp; [Wonjung Woo](https://wonjungwoo.github.io/)<sup>1</sup> &nbsp;&nbsp; [Byungjun Kim](https://bjkim95.github.io/)<sup>1</sup> &nbsp;&nbsp; [Hanbyul Joo](https://jhugestar.github.io/)<sup>1</sup>
+[Hyunsoo Cha](https://hyunsoocha.github.io/) &nbsp;&nbsp; [Wonjung Woo](https://wonjungwoo.github.io/) &nbsp;&nbsp; [Byungjun Kim](https://bjkim95.github.io/) &nbsp;&nbsp; [Hanbyul Joo](https://jhugestar.github.io/)
 
-<sup>1</sup>Seoul National University
+Seoul National University
 
 <br>
 

@@ -3,19 +3,16 @@
 # Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision
 
 <a href="https://arxiv.org/abs/2604.04934"><img src='https://img.shields.io/badge/arXiv-2604.04934-b31b1b.svg?style=for-the-badge' alt='arXiv'></a>
-<a href="https://hyunsoocha.github.io/vanast/"><img src='https://img.shields.io/badge/Project-Page-blue?style=for-the-badge' alt='Project Page'></a>
-<a href="https://github.com/snuvclab/vanast"><img src='https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github' alt='GitHub'></a>
 <a href="https://arxiv.org/pdf/2604.04934.pdf"><img src='https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge' alt='Paper PDF'></a>
+<a href="https://hyunsoocha.github.io/vanast/"><img src='https://img.shields.io/badge/Project-Page-blue?style=for-the-badge' alt='Project Page'></a>
 
 ### CVPR 2026 Highlight
 
-[Hyunsoo Cha](https://hyunsoocha.github.io/)<sup>1</sup> &nbsp;&nbsp; Wonjung Woo<sup>1</sup> &nbsp;&nbsp; Byungjun Kim<sup>1</sup> &nbsp;&nbsp; [Hanbyul Joo](https://jhugestar.github.io/)<sup>1</sup>
+[Hyunsoo Cha](https://hyunsoocha.github.io/)<sup>1</sup> &nbsp;&nbsp; [Wonjung Woo](https://wonjungwoo.github.io/)<sup>1</sup> &nbsp;&nbsp; [Byungjun Kim](https://bjkim95.github.io/)<sup>1</sup> &nbsp;&nbsp; [Hanbyul Joo](https://jhugestar.github.io/)<sup>1</sup>
 
 <sup>1</sup>Seoul National University
 
 <br>
-
-https://github.com/user-attachments/assets/placeholder
 
 [https://hyunsoocha.github.io/vanast/static/images/teaser/teaser.m4v](https://github.com/user-attachments/assets/7a8954cf-dc4d-45f4-afdc-3bdf2e1996de)
 
